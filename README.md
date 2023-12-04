@@ -61,7 +61,7 @@
  ✌️ &emsp; I am currently pursuing my Masters in Economics from Jadavpur Univeristy '24 <br/><br/>
  ❤️ &emsp; I have experience in Data Science & Business Analytics, Business Consulting and Finance<br/><br/>
  📧 &emsp; Reach me anytime: agarwalvishal.official@gmail.com<br/><br/>
- ✌️ &emsp; Skills:
+ ✌️ &emsp; Skills
  📧 &emsp; Python Programming: NumPy, Pandas, Matplotlib, Seaborn and Scikit-Learn
  📧 &emsp; Microsoft Office: Word, PowerPoint, Excel
  📧 &emsp; SQL: MySQL, OracleSQL
