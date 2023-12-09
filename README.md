@@ -68,7 +68,6 @@
  📧 &emsp; Dashboard: Tableau, Power BI  <br/><br/>
  📧 &emsp; Google Analytics <br/><br/>
 
- 💬 &emsp; Ask me about anything [here](https://github.com/agarwalvishal00)
 
 </p>
 
