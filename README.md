@@ -61,12 +61,10 @@
  ✌️ &emsp; I am currently pursuing my Masters in Economics from Jadavpur Univeristy '24 <br/><br/>
  ❤️ &emsp; I have experience in Data Science & Business Analytics, Business Consulting and Finance<br/><br/>
  📧 &emsp; Reach me anytime: agarwalvishal.official@gmail.com<br/><br/>
- ✌️ &emsp; Skills: <br/><br/>
- 📧 &emsp; Python Programming: NumPy, Pandas, Matplotlib, Seaborn and Scikit-Learn <br/><br/>
- 📧 &emsp; Microsoft Office: Word, PowerPoint, Excel <br/><br/>
- 📧 &emsp; SQL: MySQL, OracleSQL <br/><br/>
- 📧 &emsp; Dashboard: Tableau, Power BI  <br/><br/>
- 📧 &emsp; Google Analytics <br/><br/>
+ ✌️ &emsp; Work Experience: <br/><br/>
+ 📧 &emsp; Consultant - Impact Consulting (Kolkata, Bengaluru <br/><br/>
+ 📧 &emsp; Data Science & Business Analytics Intern <br/><br/>
+ 📧 &emsp; Market Research Intern Intern <br/><br/>
 
 
 </p>
