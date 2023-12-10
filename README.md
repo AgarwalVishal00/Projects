@@ -62,9 +62,9 @@
  ❤️ &emsp; I have experience in Data Science & Business Analytics, Business Consulting and Finance<br/><br/>
  📧 &emsp; Reach me anytime: agarwalvishal.official@gmail.com<br/><br/>
  ✌️ &emsp; Work Experience: <br/><br/>
- 📧 &emsp; Consultant - Impact Consulting (Kolkata, Bengaluru <br/><br/>
- 📧 &emsp; Data Science & Business Analytics Intern <br/><br/>
- 📧 &emsp; Market Research Intern Intern <br/><br/>
+ 📧 &emsp; Consultant - Impact Consulting <br/><br/>
+ 📧 &emsp; Data Science & Business Analytics Intern - Praxis Business School<br/><br/>
+ 📧 &emsp; Market Research Intern Intern - Voltroph Energy, Kolkata <br/><br/>
 
 
 </p>
